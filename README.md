@@ -7,7 +7,7 @@ Responsive website landing page built using HTML and Bulma CSS.
 1. HTML.
 1. Bulma CSS.
 1. GitHub Actions.
-1. Firebase Hosting.
+1. Google Cloud Run.
 
 ## Live site
 
