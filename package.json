@@ -1,0 +1,21 @@
+{
+	"name": "mando-coffee",
+	"version": "1.0.0",
+	"description": "Responsive website landing page built using HTML and Bulma CSS.",
+	"main": "index.html",
+	"scripts": {
+		"dev": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bigmikeowuor/mando-coffee.git"
+	},
+	"keywords": [],
+	"author": "Michael Owuor",
+	"license": "ISC",
+	"homepage": "https://mando-coffee.s3.co.ke/",
+	"dependencies": {
+		"parcel-bundler": "^1.12.5"
+	}
+}
